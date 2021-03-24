@@ -42,7 +42,7 @@
   
 <distributionManagement>
     <repository>
-        <id>sym</id>
+        <id>devopsschool</id>
         <name>release softx</name>
         <url>http://13.233.127.211:8081/nexus/content/repositories/broadall/</url>
     </repository>
